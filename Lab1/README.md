@@ -74,6 +74,8 @@ The program uses the following coordinates:
 The program displays a straight line between the specified starting and ending points using the DDA algorithm.
 
 ![DDA Line Drawing Output](dda_line_output.png)
+<img width="640" height="480" alt="cgm_lab_assignment_01_output" src="https://github.com/user-attachments/assets/01ed811b-2a3f-4b58-b726-30c6e264a05b" />
+
 
 ## Technologies Used
 
